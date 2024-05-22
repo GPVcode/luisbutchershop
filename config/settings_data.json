@@ -131,6 +131,35 @@
         "settings": {
           "color_scheme": "scheme-1"
         }
+      },
+      "Luis-Butcher-Custom-Font": {
+        "type": "Luis-Butcher-Custom-Font",
+        "blocks": {
+          "image_tCpWjD": {
+            "type": "image",
+            "settings": {
+              "name": "Luis Butcher Custom Font",
+              "custom_font_weight": "normal",
+              "custom_font_style": "none",
+              "custom_font_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0872\/9552\/5151\/files\/Century_Handtooled_ITC_Std_Regular.woff?v=1716360002",
+              "apply_h1": false,
+              "apply_h2": true,
+              "apply_h3": false,
+              "apply_h4": false,
+              "apply_h5": false,
+              "apply_h6": false,
+              "apply_span": false,
+              "apply_p": false,
+              "apply_custom": ""
+            }
+          }
+        },
+        "block_order": [
+          "image_tCpWjD"
+        ],
+        "settings": {
+          "enable": true
+        }
       }
     },
     "content_for_index": [
@@ -183,11 +212,11 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#5e0100",
           "background_gradient": "",
-          "text": "#890200",
+          "text": "#ffffff",
           "button": "#ffffff",
-          "button_label": "#890200",
+          "button_label": "#460402",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
