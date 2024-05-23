@@ -7,14 +7,14 @@
           "type": "text",
           "settings": {
             "text": "Family Tradition Continues",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         },
         "heading": {
           "type": "heading",
           "settings": {
             "heading": "LUIS' BUTCHER SHOP",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "button": {
@@ -22,7 +22,7 @@
           "settings": {
             "button_label_1": "Order Now!",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": true
@@ -34,11 +34,14 @@
         "heading",
         "button"
       ],
+      "custom_css": [
+        "h2.banner__heading.inline-richtext.h0 {text-shadow: 2px 3px 5px #060505;}"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Luis_Butcher_Meat_Deli.png",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/Luis_Butcher_Shop_Menu_Meat.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",

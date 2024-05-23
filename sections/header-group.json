@@ -15,7 +15,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to Luis' Butcher Shop",
+            "text": "Welcome to Luis' Butcher Shop!",
             "link": ""
           }
         }
