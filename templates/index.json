@@ -38,7 +38,7 @@
         "h2.banner__heading.inline-richtext.h0 {text-shadow: 2px 3px 5px #060505;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Luis_Butcher_Shop_Menu_Meat.jpg",
+        "image": "shopify:\/\/shop_images\/Luis_Butcher_Meat_Deli.png",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
@@ -58,7 +58,7 @@
         "heading_size": "h2",
         "description": "",
         "show_description": false,
-        "description_style": "body",
+        "description_style": "subtitle",
         "collection": "all",
         "products_to_show": 8,
         "columns_desktop": 4,
@@ -67,7 +67,7 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -78,10 +78,58 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_6qq8BY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_er6xQC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tradition. Quality.",
+            "heading_size": "h1"
+          }
+        },
+        "text_jkxntX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_73yCTf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_er6xQC",
+        "text_jkxntX",
+        "button_73yCTf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/photo-output_3.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "image_with_text_6qq8BY"
   ]
 }
