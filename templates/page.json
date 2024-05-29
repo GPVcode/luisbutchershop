@@ -11,37 +11,28 @@
     "image_with_text_fWigDC": {
       "type": "image-with-text",
       "blocks": {
-        "heading_9xrx8P": {
+        "heading_nMrhNz": {
           "type": "heading",
           "settings": {
-            "heading": "Family Tradition. Veteran Owned.",
-            "heading_size": "h2"
+            "heading": "Our Story",
+            "heading_size": "h1"
           }
         },
         "text_rW4DwM": {
           "type": "text",
           "settings": {
-            "text": "<p>Meet Moises Rios, owner of Luis' Butcher Shop.<br\/><br\/><\/p>",
+            "text": "<p>Welcome to Luis' Butcher Shop!<br\/>For over twenty years, Luis' Butcher Shop has been more than just a place to buy meat. We are a family-run business, deeply rooted in the community, dedicated to providing the highest quality meats and exceptional service. Our story begins with Jose Rios, who started working at this very location under the name Luis Meat Market. Through his hard work and dedication, the business flourished and became a beloved part of the community.<\/p>",
             "text_style": "body"
-          }
-        },
-        "button_Ta4nhV": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_9xrx8P",
-        "text_rW4DwM",
-        "button_Ta4nhV"
+        "heading_nMrhNz",
+        "text_rW4DwM"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Luis_Butcher_Shop_Owner.png",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -54,10 +45,71 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_94wr7t": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zAcdM4": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Family Tradition",
+            "heading_size": "h2"
+          }
+        },
+        "text_LAC4nD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From a young age, Moises Rios-Hernandez, Jose's son, was immersed in the world of butchery, working alongside his father and absorbing the values of hard work and dedication. Raised in Downey, Moises developed a deep appreciation for the craft. After serving his country in the United States Marine Corps during Operation Iraqi Freedom, Moises sought to refine his skills further. He moved to New York, where he apprenticed at a renowned butcher shop under the tutelage of a master Jewish butcher. This experience honed his skills in craft butchery and deepened his commitment to quality.<\/p>"
+          }
+        },
+        "heading_9X9FPR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Continuing the Legacy",
+            "heading_size": "h2"
+          }
+        },
+        "text_6QVdht": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Returning home, Moises took over the family business, bringing with him the expertise and passion he developed over the years. Today, he continues to uphold the traditions and values instilled by his father, ensuring that Luis' Butcher Shop remains a cornerstone of the community.<\/p>"
+          }
+        },
+        "heading_EyWjXF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Commitment",
+            "heading_size": "h2"
+          }
+        },
+        "text_bnmBHj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Luis' Butcher Shop, we believe in the importance of quality, trust, and community. We carefully select our meats to ensure they meet the highest standards of freshness and taste. Whether you are looking for everyday cuts or specialty items, we are here to serve you with a smile.<\/p><p>We are proud to offer nationwide shipping, convenient to-go orders, and a range of premium butcher services. Our team is passionate about meat and dedicated to providing an excellent customer experience, whether you visit us in person or shop online.<\/p><p>Thank you for being a part of our story. We look forward to serving you and continuing the tradition of quality and community at Luis' Butcher Shop.<\/p><p><strong>Visit us today or place your order online to experience the best in quality meats!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zAcdM4",
+        "text_LAC4nD",
+        "heading_9X9FPR",
+        "text_6QVdht",
+        "heading_EyWjXF",
+        "text_bnmBHj"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "image_with_text_fWigDC"
+    "image_with_text_fWigDC",
+    "rich_text_94wr7t"
   ]
 }

@@ -6,7 +6,7 @@
         "text_MT4h4A": {
           "type": "text",
           "settings": {
-            "text": "Family Tradition Continues",
+            "text": "Quality Meats & Family Tradition",
             "text_style": "body"
           }
         },
@@ -51,21 +51,62 @@
         "show_text_below": false
       }
     },
+    "collection_list_J3DUty": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_aPJd3x": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hot-food-to-go"
+          }
+        },
+        "featured_collection_RrQcmi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_FyGwzF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_aPJd3x",
+        "featured_collection_RrQcmi",
+        "featured_collection_FyGwzF"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Order Online",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Luis' Menu To-Go",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>Order your favorite hot meals online and pick them up at your convenience.<\/p>",
         "show_description": false,
-        "description_style": "subtitle",
-        "collection": "all",
+        "description_style": "body",
+        "collection": "hot-food-to-go",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
         "image_ratio": "square",
         "image_shape": "default",
@@ -76,6 +117,95 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_ncdGWr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dqBBG9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Burrito.heic",
+            "title": "To-Go Orders",
+            "text": "<p>Place your to-go orders online and pick them up at your convenience. Perfect for busy days when you need a quick and delicious meal. Enjoy breakfast, lunch, or dinner prepared with care and quality.<\/p>",
+            "link_label": "Order Hot Food",
+            "link": ""
+          }
+        },
+        "column_VpqyfC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Luis_Butcher_Meat_and_Butcher.png",
+            "title": "Custom Butcher Services",
+            "text": "<p>Our skilled butchers provide custom cuts and specialized meat preparation. Not sure what you need? We’ll help you find the right answers. We also offer vacuum packing to keep your meat fresh.<\/p>",
+            "link_label": "Learn More",
+            "link": ""
+          }
+        },
+        "column_8Hn9yx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MeatPk1.heic",
+            "title": "Specialty Marinated Meats",
+            "text": "<p>Try our selection of ready to cook marinated meats, prepared with our signature recipes. Perfect for grilling, roasting, or any of your favorite cooking methods.<\/p>",
+            "link_label": "Shop Now",
+            "link": ""
+          }
+        },
+        "column_ALe6nx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Luis_Butcher_Catering_Services.webp",
+            "title": "Catering",
+            "text": "<p>For your big get-togethers, allow us to take the hassle out of cooking. We can prepare larger portions for big groups, ensuring everyone is well-fed and happy. Call us at (562-622-1188) to discuss your catering needs.<\/p>",
+            "link_label": "Contact Us",
+            "link": ""
+          }
+        },
+        "column_km8ib9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Smoked_Brisket.heic",
+            "title": "Hickory Smoked Chipotle Brisket",
+            "text": "<p>We smoke Certified Angus beef brisket in-house, offering it in tacos, burritos, nachos, and more. We highly recommend the brisket sandwich for a mouthwatering experience.<\/p>",
+            "link_label": "Order now",
+            "link": ""
+          }
+        },
+        "column_gLkn9L": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GYAO_Combo3.heic",
+            "title": "Merchandise and Rubs",
+            "text": "<p>Ready to enhance your cooking? Explore our range of merchandise and specialty rubs to complement your cooking. From branded aprons to unique spice blends, we have everything to elevate your culinary experience.<\/p>",
+            "link_label": "Shop Now",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dqBBG9",
+        "column_VpqyfC",
+        "column_8Hn9yx",
+        "column_ALe6nx",
+        "column_km8ib9",
+        "column_gLkn9L"
+      ],
+      "settings": {
+        "title": "What We Offer",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -114,14 +244,24 @@
         "image": "shopify:\/\/shop_images\/Craft_Butchery_1.png",
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_xPVR6Q": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Get in Touch",
+        "heading_size": "h2",
+        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -129,7 +269,10 @@
   },
   "order": [
     "image_banner",
+    "collection_list_J3DUty",
     "featured_collection",
-    "image_with_text_6qq8BY"
+    "multicolumn_ncdGWr",
+    "image_with_text_6qq8BY",
+    "contact_form_xPVR6Q"
   ]
 }
