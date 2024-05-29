@@ -14,7 +14,7 @@
           "type": "heading",
           "settings": {
             "heading": "LUIS' BUTCHER SHOP",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "button": {
@@ -85,22 +85,22 @@
         "heading_er6xQC": {
           "type": "heading",
           "settings": {
-            "heading": "Tradition. Quality.",
-            "heading_size": "h1"
+            "heading": "Our Community",
+            "heading_size": "h2"
           }
         },
         "text_jkxntX": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Luis' Butcher Shop has been a cornerstone of the community for over twenty years. Learn about our journey and the relationships we've built with our loyal customers through dedication and trust in providing top-quality meats.<\/p>",
             "text_style": "body"
           }
         },
         "button_73yCTf": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Read Our Story",
+            "button_link": "shopify:\/\/pages\/about-us",
             "button_style_secondary": false
           }
         }
@@ -111,10 +111,10 @@
         "button_73yCTf"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/photo-output_3.jpg",
+        "image": "shopify:\/\/shop_images\/Craft_Butchery_1.png",
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
