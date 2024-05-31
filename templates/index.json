@@ -25,7 +25,7 @@
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         }
       },
@@ -39,7 +39,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Luis_Butcher_Meat_Deli.png",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 20,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
@@ -54,9 +54,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Luis' Menu To-Go",
+        "title": "Luis' To-Go Kitchen",
         "heading_size": "h2",
-        "description": "<p>Order your favorite hot meals online and pick them up at your convenience.<\/p>",
+        "description": "<p>Enjoy freshly prepared in-house meals with the quality and tradition our community loves.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "luis-menu-to-go",
@@ -84,17 +84,17 @@
       "settings": {
         "title": "Featured Meats",
         "heading_size": "h2",
-        "description": "<p>Handpicked meat selection with over two decades of tradition. <\/p>",
+        "description": "<p>Bring home our handpicked selection of premium meats, crafted with decades of tradition and expertise.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "hot-food-to-go",
         "products_to_show": 4,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-887afe32-6485-418f-b578-ddc1d0d80da9",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -114,7 +114,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Burrito.heic",
-            "title": "To-Go Orders",
+            "title": "Kitchen To-Go Orders",
             "text": "<p>Place your to-go orders online and pick them up at your convenience. Perfect for busy days when you need a quick and delicious meal. Enjoy breakfast, lunch, or dinner prepared with care and quality.<\/p>",
             "link_label": "Order Hot Food",
             "link": ""
@@ -140,11 +140,21 @@
             "link": ""
           }
         },
+        "column_LkHNRp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Grocery.webp",
+            "title": "Local Grocery",
+            "text": "<p>As a family-owned local grocery and butcher shop, we provide fresh meats and all the essentials you need for your home-cooked meals. At Luis’ Butcher Shop, we're dedicated to offering quality products and exceptional customer service.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_ALe6nx": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Luis_Butcher_Catering_Services.webp",
-            "title": "Catering",
+            "title": "Event Catering",
             "text": "<p>For your big get-togethers, allow us to take the hassle out of cooking. We can prepare larger portions for big groups, ensuring everyone is well-fed and happy. Call us at (562-622-1188) to discuss your catering needs.<\/p>",
             "link_label": "Contact Us",
             "link": ""
@@ -175,6 +185,7 @@
         "column_dqBBG9",
         "column_VpqyfC",
         "column_8Hn9yx",
+        "column_LkHNRp",
         "column_ALe6nx",
         "column_km8ib9",
         "column_gLkn9L"
