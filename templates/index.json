@@ -116,7 +116,7 @@
             "image": "shopify:\/\/shop_images\/Burrito.heic",
             "title": "Kitchen To-Go Orders",
             "text": "<p>Place your to-go orders online and pick them up at your convenience. Perfect for busy days when you need a quick and delicious meal. Enjoy breakfast, lunch, or dinner prepared with care and quality.<\/p>",
-            "link_label": "Order Hot Food",
+            "link_label": "Order Now!",
             "link": ""
           }
         },
@@ -146,7 +146,7 @@
             "image": "shopify:\/\/shop_images\/Grocery.webp",
             "title": "Local Grocery",
             "text": "<p>As a family-owned local grocery and butcher shop, we provide fresh meats and all the essentials you need for your home-cooked meals. At Luis’ Butcher Shop, we're dedicated to offering quality products and exceptional customer service.<\/p>",
-            "link_label": "",
+            "link_label": "Learn More",
             "link": ""
           }
         },
