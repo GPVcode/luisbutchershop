@@ -82,18 +82,18 @@
     "featured_collection_YP8wnQ": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured Meats",
+        "title": "Top Selling Meats",
         "heading_size": "h2",
         "description": "<p>Bring home our handpicked selection of premium meats, crafted with decades of tradition and expertise.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "hot-food-to-go",
-        "products_to_show": 4,
+        "products_to_show": 10,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "scheme-887afe32-6485-418f-b578-ddc1d0d80da9",
         "image_ratio": "square",
         "image_shape": "default",
@@ -102,7 +102,7 @@
         "show_rating": false,
         "quick_add": "none",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -144,7 +144,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Grocery.webp",
-            "title": "Local Grocery",
+            "title": "Imported Grocery",
             "text": "<p>As a family-owned local grocery and butcher shop, we provide fresh meats and all the essentials you need for your home-cooked meals. At Luis’ Butcher Shop, we're dedicated to offering quality products and exceptional customer service.<\/p>",
             "link_label": "Learn More",
             "link": ""
