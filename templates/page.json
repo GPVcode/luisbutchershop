@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -9,6 +10,7 @@
     },
     "featured_collection_C7WMj7": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured collection",
         "heading_size": "h1",
@@ -34,10 +36,142 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_wH8nEh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_E9AWni": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h2"
+          }
+        },
+        "text_cE6VM6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Luis’ Butcher Shop began over twenty years ago under the name of Luis Meat Market. Through dedication and a commitment to quality, the business flourished, becoming a beloved fixture in the community. Today, Luis’ Butcher Shop continues this tradition, offering the finest cuts of meat prepared with expertise and care.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_E9AWni",
+        "text_cE6VM6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Luis_Butcher_Shop_Owner.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_9BcHKd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aXBtn6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet The Owner",
+            "heading_size": "h2"
+          }
+        },
+        "text_Hbp6Yc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From a young age, Moises Rios-Hernandez learned a strong work ethic from his parents. Raised in Downey, California, Moises developed a deep appreciation for the craft of butchery. His journey took him from the community he loved to the front lines as he served his country in the United States Marine Corps during Operation Iraqi Freedom.<\/p><p>After his service, Moises sought to refine his skills further and moved to Kingston, New York, where he apprenticed at Fleishers Craft Butcher Shop under Josh Applestone. This experience honed his skills in craft butchery and deepened his commitment to quality.<\/p><p>Returning to Downey, Moises brought with him a wealth of knowledge and a renewed passion for butchery. He continues to uphold the values of hard work, dedication, and a commitment to excellence that have defined Luis' Butcher Shop from the beginning.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aXBtn6",
+        "text_Hbp6Yc"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_UgGTqa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qwLmd6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Commitment",
+            "heading_size": "h2"
+          }
+        },
+        "text_bt4NgY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Luis' Butcher Shop, we are more than just a place to buy meat; we are a part of the community. We believe in building relationships with our customers through dedication and trust. Our goal is to provide not just products, but also a service that enhances your culinary experiences and brings your family and friends together.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qwLmd6",
+        "text_bt4NgY"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_p8EMrM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Fr6ACm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join Us on Our Journey",
+            "heading_size": "h2"
+          }
+        },
+        "text_GzkbLg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We invite you to learn more about our story and experience the quality and care that go into every cut of meat we offer. Whether you are a long-time customer or visiting us for the first time, we look forward to serving you with the same dedication and excellence that has made Luis' Butcher Shop a beloved part of the community.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Fr6ACm",
+        "text_GzkbLg"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "featured_collection_C7WMj7"
+    "featured_collection_C7WMj7",
+    "image_with_text_wH8nEh",
+    "rich_text_9BcHKd",
+    "rich_text_UgGTqa",
+    "rich_text_p8EMrM"
   ]
 }

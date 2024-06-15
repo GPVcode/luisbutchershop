@@ -56,7 +56,7 @@
       "settings": {
         "title": "Luis' To-Go Kitchen",
         "heading_size": "h2",
-        "description": "<p>Enjoy freshly prepared in-house meals with the quality and tradition our community loves.<\/p>",
+        "description": "<p>Enjoy freshly prepared in-house meals with the quality and tradition our community loves. Seafood and <span style=\"text-decoration:underline\"><strong>keto friendly<\/strong><\/span> options now available!<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "luis-menu-to-go",
@@ -82,7 +82,7 @@
     "featured_collection_YP8wnQ": {
       "type": "featured-collection",
       "settings": {
-        "title": "Top Selling Meats",
+        "title": "Top-Selling Meats",
         "heading_size": "h2",
         "description": "<p>Bring home our handpicked selection of premium meats, crafted with decades of tradition and expertise.<\/p>",
         "show_description": false,
@@ -115,7 +115,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Burrito.heic",
             "title": "Kitchen To-Go Orders",
-            "text": "<p>Place your to-go orders online and pick them up at your convenience. Perfect for busy work breaks when you need a quick and delicious meal. Enjoy breakfast, lunch, or dinner prepared with care and quality from Luis' Butcher Shop.<\/p>",
+            "text": "<p>Place to-go orders online and pick them up at your convenience. A local favorite for busy work breaks needing a quick and delicious meal prepared with care and quality from Luis' Butcher Shop.<\/p>",
             "link_label": "Order Now!",
             "link": ""
           }
@@ -213,14 +213,14 @@
         "heading_er6xQC": {
           "type": "heading",
           "settings": {
-            "heading": "Our Community",
+            "heading": "A Legacy of Quality & Community",
             "heading_size": "h2"
           }
         },
         "text_jkxntX": {
           "type": "text",
           "settings": {
-            "text": "<p>Luis' Butcher Shop has been a cornerstone of the community for over twenty years. Learn about our journey and the relationships we've built with our loyal customers through dedication and trust in providing top-quality meats.<\/p>",
+            "text": "<p>Luis' Butcher Shop has been a cornerstone of the community for over twenty years, dedicated to providing top-quality meats and fostering strong relationships with our loyal customers. Our journey is one of passion, hard work, and an unwavering commitment to excellence.<\/p>",
             "text_style": "body"
           }
         },
