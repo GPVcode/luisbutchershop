@@ -56,11 +56,11 @@
       "settings": {
         "title": "Luis' To-Go Kitchen",
         "heading_size": "h2",
-        "description": "<p>Enjoy freshly prepared in-house meals with the quality and tradition our community loves. Seafood and <span style=\"text-decoration:underline\"><strong>keto friendly<\/strong><\/span> options now available!<\/p>",
+        "description": "<p>Freshly prepared in-house meals with the quality and tradition our community loves. Seafood and <span style=\"text-decoration:underline\"><strong>keto friendly<\/strong><\/span> options now available!<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "luis-menu-to-go",
-        "products_to_show": 4,
+        "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
@@ -70,11 +70,11 @@
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_rating": false,
         "quick_add": "none",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 44,
         "padding_bottom": 36
       }
@@ -84,7 +84,7 @@
       "settings": {
         "title": "Top-Selling Meats",
         "heading_size": "h2",
-        "description": "<p>Bring home our handpicked selection of premium meats, crafted with decades of tradition and expertise.<\/p>",
+        "description": "<p>Premium meats crafted with decades of tradition and expertise.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "hot-food-to-go",
