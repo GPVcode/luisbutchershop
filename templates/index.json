@@ -54,9 +54,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Luis' To-Go Kitchen",
+        "title": "Luis' Kitchen Bestsellers",
         "heading_size": "h2",
-        "description": "<p>Freshly prepared in-house meals with the quality and tradition our community loves. Seafood and <span style=\"text-decoration:underline\"><strong>keto friendly<\/strong><\/span> options now available!<\/p>",
+        "description": "<p>Perfect lunchbreak meals freshly made to-go. <br\/>Seafood and keto-friendly items now available.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "luis-menu-to-go",

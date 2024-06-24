@@ -22,7 +22,7 @@
         "text_gBVyxW": {
           "type": "text",
           "settings": {
-            "text": "<p>We serve <strong>keto-friendly <\/strong>and <strong>fresh seafood <\/strong>options! Have questions about our menu? Contact us at <strong>(562) 622-1188<\/strong>.<\/p>"
+            "text": "<p>All meals prepared fresh. Have questions about our menu? Contact us at <strong>(562) 622-1188<\/strong>. <strong>Seafood <\/strong>and <strong>keto-friendly<\/strong> items available.<\/p>"
           }
         }
       },
@@ -44,7 +44,7 @@
       "settings": {
         "title": "Breakfast Menu",
         "heading_size": "h2",
-        "description": "<p>Start your morning with flavorful, traditional breakfast options!<\/p>",
+        "description": "<p>Tasty, traditional breakfast options to start your day!<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "luis-to-go-kitchen-breakfast-menu",
@@ -72,7 +72,7 @@
       "settings": {
         "title": "Lunch Menu",
         "heading_size": "h2",
-        "description": "<p>Savor our diverse lunch options, crafted with care and tradition!<\/p>",
+        "description": "<p>Savory lunch options crafted with care and tradition!<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "luis-to-go-kitchen-lunch-menu",
@@ -100,7 +100,7 @@
       "settings": {
         "title": "Seafood Menu",
         "heading_size": "h2",
-        "description": "<p>Enjoy fresh and delicious seafood dishes made with quality ingredients!<\/p>",
+        "description": "<p>Fresh seafood options made with quality ingredients!<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "luis-to-go-kitchen-seafood-menu",
@@ -128,7 +128,7 @@
       "settings": {
         "title": "Keto Menu",
         "heading_size": "h2",
-        "description": "<p>Healthy low-carb meals packed with fresh vegetables and quality proteins!<\/p>",
+        "description": "<p>Low-carb meals with fresh veggies and quality meat!<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "luis-to-go-kitchen-keto-menu",
