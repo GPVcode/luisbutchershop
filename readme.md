@@ -4,4 +4,4 @@
 Owner Moises Rios-Hernandez now runs the market.
 This repo holds the code for the Luis' Butcher Shopify site.
 
-// Utilizin Easify for order Management.
+// Utilizing Easify for order Management.

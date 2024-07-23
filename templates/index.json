@@ -59,7 +59,7 @@
         "description": "<p>Perfect lunchbreak meals freshly made to-go. <br\/>Seafood and keto-friendly items now available.<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "luis-menu-to-go",
+        "collection": "to-go-kitchen-menu",
         "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": false,
