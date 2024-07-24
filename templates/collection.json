@@ -24,11 +24,18 @@
           "settings": {
             "text": "<p>All meals prepared fresh. Have questions about our menu? Contact us at <strong>(562) 622-1188<\/strong>. <strong>Seafood <\/strong>and <strong>keto-friendly<\/strong> items available.<\/p>"
           }
+        },
+        "button_navigation_QBiNtR": {
+          "type": "button_navigation",
+          "settings": {
+            "html": "<div class=\"menu-navigation-buttons\">\n<button onclick=\"document.getElementById('breakfast-menu').scrollIntoView();\">Breakfast<\/button><button onclick=\"document.getElementById('lunch-menu').scrollIntoView();\">Lunch<\/button><button onclick=\"document.getElementById('seafood-menu').scrollIntoView();\">Seafood<\/button><button onclick=\"document.getElementById('keto-menu').scrollIntoView();\">Keto<\/button><button onclick=\"document.getElementById('drinks-menu').scrollIntoView();\">Drinks<\/button>\n<\/div>"
+          }
         }
       },
       "block_order": [
         "heading_VYxz98",
-        "text_gBVyxW"
+        "text_gBVyxW",
+        "button_navigation_QBiNtR"
       ],
       "settings": {
         "desktop_content_position": "left",

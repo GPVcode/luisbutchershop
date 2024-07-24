@@ -87,6 +87,14 @@
                   </a>
                 {%- endif -%}
               </div>
+            {%- when 'button_navigation' -%}
+              <div class="menu-navigation-buttons">
+                <button onclick="document.getElementById('breakfast-menu').scrollIntoView();">Breakfast</button>
+                <button onclick="document.getElementById('lunch-menu').scrollIntoView();">Lunch</button>
+                <button onclick="document.getElementById('seafood-menu').scrollIntoView();">Seafood</button>
+                <button onclick="document.getElementById('keto-menu').scrollIntoView();">Keto</button>
+                <button onclick="document.getElementById('drinks-menu').scrollIntoView();">Drinks</button>
+              </div>
           {%- endcase -%}
         {%- endfor -%}
       </div>
@@ -320,6 +328,18 @@
           "id": "button_style_secondary_2",
           "default": false,
           "label": "t:sections.rich-text.blocks.buttons.settings.button_style_secondary_2.label"
+        }
+      ]
+    },
+    {
+      "type": "button_navigation",
+      "name": "Navigation Buttons",
+      "settings": [
+        {
+          "type": "html",
+          "id": "html",
+          "label": "HTML",
+          "default": "<div class='menu-navigation-buttons'><button onclick=\"document.getElementById('breakfast-menu').scrollIntoView();\">Breakfast</button><button onclick=\"document.getElementById('lunch-menu').scrollIntoView();\">Lunch</button><button onclick=\"document.getElementById('seafood-menu').scrollIntoView();\">Seafood</button><button onclick=\"document.getElementById('keto-menu').scrollIntoView();\">Keto</button><button onclick=\"document.getElementById('drinks-menu').scrollIntoView();\">Drinks</button></div>"
         }
       ]
     }
