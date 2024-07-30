@@ -54,12 +54,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Luis' Kitchen Bestsellers",
+        "title": "Luis' To-Go Kitchen Bestsellers",
         "heading_size": "h2",
-        "description": "<p>Perfect lunchbreak meals freshly made to-go. <br\/>Seafood and keto-friendly items now available.<\/p>",
+        "description": "<p>Perfect lunchbreak meals freshly made to-go. <\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "to-go-kitchen-menu",
+        "collection": "best-sellers",
         "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": false,
