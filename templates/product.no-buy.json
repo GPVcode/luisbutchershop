@@ -49,7 +49,7 @@
       ],
       "custom_css": [
         ".price.price--large.price--show-badge {display: flex; align-items: center;}",
-        "span#price__badge-image-template--22591423349023__main {padding-left: 1rem;}",
+        "span#price__badge-image-template--23030173565215__main {padding-left: 1rem;}",
         "span.badge.color-scheme-5 {margin-left: 1rem;}",
         ".price__regular .price-item--regular {font-size: 30px;}"
       ],
