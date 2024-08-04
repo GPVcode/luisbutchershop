@@ -37,6 +37,9 @@
         "text_gBVyxW",
         "button_navigation_QBiNtR"
       ],
+      "custom_css": [
+        ".nav-button {border-radius: 15px; border-width: 1px;}"
+      ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -163,7 +166,7 @@
       "settings": {
         "title": "Drinks Menu",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>Refreshing beverages for every occasion!<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "drinks-to-go",

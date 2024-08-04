@@ -89,11 +89,11 @@
               </div>
             {%- when 'button_navigation' -%}
               <div class="menu-navigation-buttons">
-                <button onclick="document.getElementById('breakfast-menu').scrollIntoView();">Breakfast</button>
-                <button onclick="document.getElementById('lunch-menu').scrollIntoView();">Lunch</button>
-                <button onclick="document.getElementById('seafood-menu').scrollIntoView();">Seafood</button>
-                <button onclick="document.getElementById('keto-menu').scrollIntoView();">Keto</button>
-                <button onclick="document.getElementById('drinks-menu').scrollIntoView();">Drinks</button>
+                <button class="nav-button" onclick="document.getElementById('breakfast-menu').scrollIntoView();">Breakfast</button>
+                <button class="nav-button" onclick="document.getElementById('lunch-menu').scrollIntoView();">Lunch</button>
+                <button class="nav-button" onclick="document.getElementById('seafood-menu').scrollIntoView();">Seafood</button>
+                <button class="nav-button" onclick="document.getElementById('keto-menu').scrollIntoView();">Keto</button>
+                <button class="nav-button" onclick="document.getElementById('drinks-menu').scrollIntoView();">Drinks</button>
               </div>
           {%- endcase -%}
         {%- endfor -%}
