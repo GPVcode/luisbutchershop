@@ -107,30 +107,49 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_dkNEYi": {
-      "type": "featured-collection",
+    "image_with_text_6qq8BY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_er6xQC": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Legacy of Quality & Community",
+            "heading_size": "h2"
+          }
+        },
+        "text_jkxntX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Luis' Butcher Shop has been a cornerstone of the community for over twenty years, dedicated to providing top-quality meats and fostering strong relationships with our loyal customers. Our journey is one of passion, hard work, and an unwavering commitment to excellence.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_73yCTf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read Our Story",
+            "button_link": "shopify:\/\/pages\/about-us",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_er6xQC",
+        "text_jkxntX",
+        "button_73yCTf"
+      ],
       "settings": {
-        "title": "Seasonings & Rubs",
-        "heading_size": "h2",
-        "description": "<p>Take home our premium spices and blends.<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "seasonings-and-rubs",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Craft_Butchery_1.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -235,49 +254,58 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_6qq8BY": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_er6xQC": {
-          "type": "heading",
-          "settings": {
-            "heading": "A Legacy of Quality & Community",
-            "heading_size": "h2"
-          }
-        },
-        "text_jkxntX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Luis' Butcher Shop has been a cornerstone of the community for over twenty years, dedicated to providing top-quality meats and fostering strong relationships with our loyal customers. Our journey is one of passion, hard work, and an unwavering commitment to excellence.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_73yCTf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read Our Story",
-            "button_link": "shopify:\/\/pages\/about-us",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_er6xQC",
-        "text_jkxntX",
-        "button_73yCTf"
-      ],
+    "featured_collection_dkNEYi": {
+      "type": "featured-collection",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Craft_Butchery_1.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "title": "Seasonings & Rubs",
+        "heading_size": "h2",
+        "description": "<p>Take home our premium seasonings and rubs.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "complete-seasoning-collection-at-luis-butcher-shop",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_f7x3JJ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Merchandise",
+        "heading_size": "h2",
+        "description": "<p>Support our business with style.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "merchandise",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -297,9 +325,10 @@
     "image_banner",
     "featured_collection",
     "featured_collection_YP8wnQ",
-    "featured_collection_dkNEYi",
-    "multicolumn_ncdGWr",
     "image_with_text_6qq8BY",
+    "multicolumn_ncdGWr",
+    "featured_collection_dkNEYi",
+    "featured_collection_f7x3JJ",
     "contact_form_xPVR6Q"
   ]
 }
